@@ -36,3 +36,10 @@ Dieses Programm steuert eine Sequenz von GPIO-Pins auf einem ESP32 mit folgender
 - Invertierte Logik (LOW = EIN, HIGH = AUS)
 - Entprellte Tastereingabe
 - Serielle Debugausgaben (115200 Baud)
+
+## Schaltplan
+Der folgende Schaltplan zeigt die Verdrahtung der GPIO-Pins und des Tasters:
+
+<a href="assets/Uwes%20retire%20plan%20-%20Version%20920561.png">
+    <img src="assets/Uwes%20retire%20plan%20-%20Version%20920561.png" alt="Schaltplan" width="800"/>
+</a>
